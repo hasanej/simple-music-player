@@ -1,6 +1,9 @@
 # Simple Music Player
 Simple Music Player created with React Native 0.64.0
 
+## Preview
+![App Preview](https://raw.githubusercontent.com/hasaneljabir/simple-music-player/main/src/resources/images/screenshot.png)
+
 ## Environment
 1. MacOS Catalina 10.15.6
 2. Node.js version 10.21.0
