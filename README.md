@@ -1,5 +1,5 @@
 # Simple Music Player
-Simple Music Player created with React Native 0.64.0
+Simple Music Player created with React Native 0.64.0.
 
 ## Preview
 ![App Preview](https://raw.githubusercontent.com/hasaneljabir/simple-music-player/main/src/resources/images/screenshot.png)
