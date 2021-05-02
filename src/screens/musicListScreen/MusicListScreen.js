@@ -37,7 +37,6 @@ class MusicListScreen extends React.Component {
       musicList: [],
       searchParam: "",
 
-      musicIndex: 0,
       artistName: "",
       musicName: "",
       isMusicPlayed: false,
@@ -134,7 +133,7 @@ class MusicListScreen extends React.Component {
           {/* Input search */}
           <TextInput
             style={styles.inputSearch}
-            placeholder={strings.search_artist}
+            placeholder={strings.search_song}
             selectionColor={colors.colorRed}
             value={this.state.searchParam}
             onChangeText={(keyword) => this.inputSearch(keyword)}

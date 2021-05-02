@@ -1,5 +1,5 @@
 const strings = {
-  search_artist: "Search Artist",
+  search_song: "Search song",
   please_wait: "Please wait",
   music_list: "Music List"
 }
