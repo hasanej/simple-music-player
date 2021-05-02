@@ -18,6 +18,9 @@ This project is not using Redux for the sake of simplicity.
 1. All device with Android 5.0 (Lollipop) or newer
 2. All device with iOS 11.0 or newer
 
+## Tested Devices
+1. Xiaomi Redmi Note 4
+
 ## Project Setup
 1. Clone this repository
 2. Open terminal inside root project directory
